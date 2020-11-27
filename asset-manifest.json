@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/AppContact-React/static/js/main.1e179346.chunk.js",
+    "main.js.map": "/AppContact-React/static/js/main.1e179346.chunk.js.map",
+    "runtime~main.js": "/AppContact-React/static/js/runtime~main.cb28f917.js",
+    "runtime~main.js.map": "/AppContact-React/static/js/runtime~main.cb28f917.js.map",
+    "static/css/2.12da0d42.chunk.css": "/AppContact-React/static/css/2.12da0d42.chunk.css",
+    "static/js/2.de1cc909.chunk.js": "/AppContact-React/static/js/2.de1cc909.chunk.js",
+    "static/js/2.de1cc909.chunk.js.map": "/AppContact-React/static/js/2.de1cc909.chunk.js.map",
+    "index.html": "/AppContact-React/index.html",
+    "precache-manifest.1e9e2b5b1aff8b848eb6f633d76aa1d8.js": "/AppContact-React/precache-manifest.1e9e2b5b1aff8b848eb6f633d76aa1d8.js",
+    "service-worker.js": "/AppContact-React/service-worker.js",
+    "static/css/2.12da0d42.chunk.css.map": "/AppContact-React/static/css/2.12da0d42.chunk.css.map"
+  }
+}
